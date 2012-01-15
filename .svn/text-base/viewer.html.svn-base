@@ -1,0 +1,18 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN"
+   "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="content-type" content="application/xhtml+xml; charset=iso-8859-1" />
+  <title>Mindmap anzeigen</title>
+<script type="text/javascript" src="swfobject.js"></script>
+
+</head>
+<body>
+<object width="900" height="600">
+<param name="movie" value="http://ekpenso.com/viewer42.swf"></param>
+<param name="flashvars" value="load_url=http://ekpenso.com/mindmaps/embed_xml/24&lang=de"></param>
+<embed id="viewer" height="600"	width="900"	flashvars="load_url=http://ekpenso.com/mindmaps/embed_xml/24&lang=de"	quality="high"	name="viewer" src="http://ekpenso.com/viewer42.swf"	type="application/x-shockwave-flash"/>
+</object>
+
+</body>
+</html>
